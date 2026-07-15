@@ -1,0 +1,44 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Environment
+.env
+
+# Node
+node_modules/
+
+# Vendor
+vendor/
+
+# Build
+dist/
+.output/
+
+# Laravel
+backend/vendor/
+backend/storage/*.key
+
+# Nuxt
+frontend/.nuxt/
+frontend/.output/
+frontend/node_modules/
+
+# Cache
+.cache/
+
+# Backup
+*.zip
+*.rar
+*.bak
